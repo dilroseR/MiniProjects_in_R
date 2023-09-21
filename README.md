@@ -1,2 +1,2 @@
 # MiniProjects_in_R
-Some mini projects using R programming language
+Some mini-projects done using the R programming language on RStudio. 
